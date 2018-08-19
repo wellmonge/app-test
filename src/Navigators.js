@@ -10,11 +10,11 @@ import {
 } from "react-navigation";
 
 //## APP COMPONENTS ###//
-import HomeScreen from './screens/HomeScreen';
-import LoginScreen from './screens/LoginScreen';
-import SignUpScreen from './screens/SignUpScreen';  
+import Anuncios from './screens/Anuncios';
+import Autenticacao from './screens/Autenticacao';
+import SignUpScreen from './screens/Inscricao';  
 import AuthLoadingScreen from './screens/AuthLoadingScreen';
-import SettingsScreen from './screens/SettingsScreen';
+import SettingsScreen from './screens/Configuracao';
 import RoutesScreen from './screens/RoutesScreen';
 import QrCodeScreen from './screens/QrCodeScreen';
 import { CustomDrawer } from "./components/CustomDrawer";
